@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\LTTQ\Bai_3\bin\Debug\Bai_3.exe.config
+C:\Users\Admin\source\repos\LTTQ\Bai_3\bin\Debug\Bai_3.exe
+C:\Users\Admin\source\repos\LTTQ\Bai_3\bin\Debug\Bai_3.pdb
+C:\Users\Admin\source\repos\LTTQ\Bai_3\obj\Debug\Bai_3.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LTTQ\Bai_3\obj\Debug\Bai_3.Form1.resources
+C:\Users\Admin\source\repos\LTTQ\Bai_3\obj\Debug\Bai_3.Properties.Resources.resources
+C:\Users\Admin\source\repos\LTTQ\Bai_3\obj\Debug\Bai_3.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LTTQ\Bai_3\obj\Debug\Bai_3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LTTQ\Bai_3\obj\Debug\Bai_3.exe
+C:\Users\Admin\source\repos\LTTQ\Bai_3\obj\Debug\Bai_3.pdb
