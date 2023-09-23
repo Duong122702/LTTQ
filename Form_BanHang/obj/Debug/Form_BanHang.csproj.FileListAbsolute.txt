@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\LTTQ\Form_BanHang\bin\Debug\Form_BanHang.exe.config
+C:\Users\Admin\source\repos\LTTQ\Form_BanHang\bin\Debug\Form_BanHang.exe
+C:\Users\Admin\source\repos\LTTQ\Form_BanHang\bin\Debug\Form_BanHang.pdb
+C:\Users\Admin\source\repos\LTTQ\Form_BanHang\obj\Debug\Form_BanHang.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LTTQ\Form_BanHang\obj\Debug\Form_BanHang.Form1.resources
+C:\Users\Admin\source\repos\LTTQ\Form_BanHang\obj\Debug\Form_BanHang.Properties.Resources.resources
+C:\Users\Admin\source\repos\LTTQ\Form_BanHang\obj\Debug\Form_BanHang.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LTTQ\Form_BanHang\obj\Debug\Form_BanHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LTTQ\Form_BanHang\obj\Debug\Form_BanHang.exe
+C:\Users\Admin\source\repos\LTTQ\Form_BanHang\obj\Debug\Form_BanHang.pdb
