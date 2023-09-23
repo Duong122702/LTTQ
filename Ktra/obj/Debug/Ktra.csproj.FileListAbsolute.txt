@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\LTTQ\Ktra\bin\Debug\Ktra.exe.config
+C:\Users\Admin\source\repos\LTTQ\Ktra\bin\Debug\Ktra.exe
+C:\Users\Admin\source\repos\LTTQ\Ktra\bin\Debug\Ktra.pdb
+C:\Users\Admin\source\repos\LTTQ\Ktra\obj\Debug\Ktra.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LTTQ\Ktra\obj\Debug\Ktra.Form1.resources
+C:\Users\Admin\source\repos\LTTQ\Ktra\obj\Debug\Ktra.Properties.Resources.resources
+C:\Users\Admin\source\repos\LTTQ\Ktra\obj\Debug\Ktra.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LTTQ\Ktra\obj\Debug\Ktra.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LTTQ\Ktra\obj\Debug\Ktra.exe
+C:\Users\Admin\source\repos\LTTQ\Ktra\obj\Debug\Ktra.pdb
